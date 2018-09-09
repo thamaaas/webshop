@@ -1,0 +1,23 @@
+.mainPic{
+	height: 250px;
+	background-image: url("img/banner.jpg");
+}
+.btn-toolbar{
+	float: right;
+}
+.navbar-fixed-bottom{
+	margin-top:300px;
+}
+.badge{
+	width: 100%;
+	height: 100%;
+	border-radius: 0;
+	font-size: 17px;
+    background-color: #9c9595;
+}
+.meinBody{
+	background-color: #a3a3a3;
+}
+.bg-light{
+	margin-top: 50px;
+}
